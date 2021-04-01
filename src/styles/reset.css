@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  color: 'red';
+}
+h1, h2 {
+  font-weight: normal;
+  margin: 0;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+.content {
+  padding: 20px;
+}
+.subhead {
+	margin-bottom: 20px;
+}
